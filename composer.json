@@ -32,14 +32,14 @@
     }
   ],
   "require": {
-    "dreamfactory/df-admin-app": "~4.0.1",
+    "dreamfactory/df-admin-app": "dev-tracking-functionality-temp as 4.0.3",
     "dreamfactory/df-api-docs-ui": "~3.0.0",
     "dreamfactory/df-apidoc": "~0.7.0",
     "dreamfactory/df-aws": "~0.16.0",
     "dreamfactory/df-azure": "~0.16.0",
     "dreamfactory/df-cache": "~0.12.0",
     "dreamfactory/df-cassandra": "~0.13.0",
-    "dreamfactory/df-core": "~0.17.0",
+    "dreamfactory/df-core": "dev-tracking-functionality-temp as 0.17.0",
     "dreamfactory/df-couchbase": "~0.11.0",
     "dreamfactory/df-couchdb": "~0.16.0",
     "dreamfactory/df-email": "~0.10.0",

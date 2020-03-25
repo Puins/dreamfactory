@@ -1,10 +1,10 @@
 {
     "_readme": [
         "This file locks the dependencies of your project to a known state",
-        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "9b756a463e565f9a04a53c900df14c75",
+    "content-hash": "2f29071145c4d47a5346ce5a93869fb6",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -1002,16 +1002,16 @@
         },
         {
             "name": "dreamfactory/df-admin-app",
-            "version": "4.0.1",
+            "version": "dev-tracking-functionality-temp",
             "source": {
                 "type": "git",
                 "url": "https://github.com/dreamfactorysoftware/df-admin-app.git",
-                "reference": "9bf323a3a9f89eb9ffd83d8f0601fdce8a66292f"
+                "reference": "ab02507438d4165d9197086124f8c84c7e1f40dd"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/dreamfactorysoftware/df-admin-app/zipball/9bf323a3a9f89eb9ffd83d8f0601fdce8a66292f",
-                "reference": "9bf323a3a9f89eb9ffd83d8f0601fdce8a66292f",
+                "url": "https://api.github.com/repos/dreamfactorysoftware/df-admin-app/zipball/ab02507438d4165d9197086124f8c84c7e1f40dd",
+                "reference": "ab02507438d4165d9197086124f8c84c7e1f40dd",
                 "shasum": ""
             },
             "require": {
@@ -1046,7 +1046,7 @@
                 "remote web services",
                 "rest"
             ],
-            "time": "2020-01-29T15:38:18+00:00"
+            "time": "2020-03-25T14:38:32+00:00"
         },
         {
             "name": "dreamfactory/df-api-docs-ui",
@@ -1401,16 +1401,16 @@
         },
         {
             "name": "dreamfactory/df-core",
-            "version": "0.17.0",
+            "version": "dev-tracking-functionality-temp",
             "source": {
                 "type": "git",
                 "url": "https://github.com/dreamfactorysoftware/df-core.git",
-                "reference": "e3f0f6a4c52a701c06f695bf8fbfb23c46c45c96"
+                "reference": "a1ec659d70e9a5dd820cf18a64aeb4590716db3f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/dreamfactorysoftware/df-core/zipball/e3f0f6a4c52a701c06f695bf8fbfb23c46c45c96",
-                "reference": "e3f0f6a4c52a701c06f695bf8fbfb23c46c45c96",
+                "url": "https://api.github.com/repos/dreamfactorysoftware/df-core/zipball/a1ec659d70e9a5dd820cf18a64aeb4590716db3f",
+                "reference": "a1ec659d70e9a5dd820cf18a64aeb4590716db3f",
                 "shasum": ""
             },
             "require": {
@@ -1478,7 +1478,7 @@
                 "paas",
                 "rest"
             ],
-            "time": "2020-02-20T12:42:45+00:00"
+            "time": "2020-03-25T09:33:52+00:00"
         },
         {
             "name": "dreamfactory/df-couchbase",
@@ -2752,20 +2752,6 @@
                 "laravel",
                 "php-github-api"
             ],
-            "funding": [
-                {
-                    "url": "https://github.com/GrahamCampbell",
-                    "type": "github"
-                },
-                {
-                    "url": "https://www.patreon.com/GrahamJCampbell",
-                    "type": "patreon"
-                },
-                {
-                    "url": "https://tidelift.com/funding/github/packagist/graham-campbell/github",
-                    "type": "tidelift"
-                }
-            ],
             "time": "2020-03-17T00:20:25+00:00"
         },
         {
@@ -2838,20 +2824,6 @@
                 "gitlab bridge",
                 "laravel",
                 "php-gitlab-api"
-            ],
-            "funding": [
-                {
-                    "url": "https://github.com/GrahamCampbell",
-                    "type": "github"
-                },
-                {
-                    "url": "https://www.patreon.com/GrahamJCampbell",
-                    "type": "patreon"
-                },
-                {
-                    "url": "https://tidelift.com/funding/github/packagist/graham-campbell/gitlab",
-                    "type": "tidelift"
-                }
             ],
             "time": "2020-03-17T00:28:15+00:00"
         },
@@ -3420,12 +3392,6 @@
                 "gist",
                 "github"
             ],
-            "funding": [
-                {
-                    "url": "https://github.com/acrobat",
-                    "type": "github"
-                }
-            ],
             "time": "2020-03-16T19:57:05+00:00"
         },
         {
@@ -3964,12 +3930,6 @@
                 "s3",
                 "sftp",
                 "storage"
-            ],
-            "funding": [
-                {
-                    "url": "https://offset.earth/frankdejonge",
-                    "type": "other"
-                }
             ],
             "time": "2020-03-17T18:58:12+00:00"
         },
@@ -4616,16 +4576,6 @@
                 "date",
                 "datetime",
                 "time"
-            ],
-            "funding": [
-                {
-                    "url": "https://opencollective.com/Carbon",
-                    "type": "open_collective"
-                },
-                {
-                    "url": "https://tidelift.com/funding/github/packagist/nesbot/carbon",
-                    "type": "tidelift"
-                }
             ],
             "time": "2020-03-24T16:01:47+00:00"
         },
@@ -5459,20 +5409,6 @@
                 "twofish",
                 "x.509",
                 "x509"
-            ],
-            "funding": [
-                {
-                    "url": "https://github.com/terrafrost",
-                    "type": "github"
-                },
-                {
-                    "url": "https://www.patreon.com/phpseclib",
-                    "type": "patreon"
-                },
-                {
-                    "url": "https://tidelift.com/funding/github/packagist/phpseclib/phpseclib",
-                    "type": "tidelift"
-                }
             ],
             "time": "2020-03-13T04:15:39+00:00"
         },
@@ -9006,16 +8942,6 @@
                 "dependency",
                 "package"
             ],
-            "funding": [
-                {
-                    "url": "https://packagist.com",
-                    "type": "custom"
-                },
-                {
-                    "url": "https://tidelift.com/funding/github/packagist/composer/composer",
-                    "type": "tidelift"
-                }
-            ],
             "time": "2020-03-13T19:34:27+00:00"
         },
         {
@@ -9181,12 +9107,6 @@
                 "Xdebug",
                 "performance"
             ],
-            "funding": [
-                {
-                    "url": "https://packagist.com",
-                    "type": "custom"
-                }
-            ],
             "time": "2020-03-01T12:26:26+00:00"
         },
         {
@@ -9296,12 +9216,6 @@
                 "facade",
                 "flare",
                 "reporting"
-            ],
-            "funding": [
-                {
-                    "url": "https://www.patreon.com/spatie",
-                    "type": "patreon"
-                }
             ],
             "time": "2020-03-02T15:52:04+00:00"
         },
@@ -10694,12 +10608,6 @@
                 "highlight.php",
                 "syntax"
             ],
-            "funding": [
-                {
-                    "url": "https://github.com/allejo",
-                    "type": "github"
-                }
-            ],
             "time": "2020-03-02T05:59:21+00:00"
         },
         {
@@ -11500,14 +11408,29 @@
             "time": "2020-02-14T12:15:55+00:00"
         }
     ],
-    "aliases": [],
+    "aliases": [
+        {
+            "alias": "4.0.3",
+            "alias_normalized": "4.0.3.0",
+            "version": "dev-tracking-functionality-temp",
+            "package": "dreamfactory/df-admin-app"
+        },
+        {
+            "alias": "0.17.0",
+            "alias_normalized": "0.17.0.0",
+            "version": "dev-tracking-functionality-temp",
+            "package": "dreamfactory/df-core"
+        }
+    ],
     "minimum-stability": "dev",
-    "stability-flags": [],
+    "stability-flags": {
+        "dreamfactory/df-admin-app": 20,
+        "dreamfactory/df-core": 20
+    },
     "prefer-stable": true,
     "prefer-lowest": false,
     "platform": {
         "php": "^7.2"
     },
-    "platform-dev": [],
-    "plugin-api-version": "1.1.0"
+    "platform-dev": []
 }
