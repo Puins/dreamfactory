@@ -1405,12 +1405,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/dreamfactorysoftware/df-core.git",
-                "reference": "8a03c8cf6796b58af745814dd4f92a7f65bb57e8"
+                "reference": "1b2d81fb1b38595a2161019ef02fdd6112a5e145"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/dreamfactorysoftware/df-core/zipball/8a03c8cf6796b58af745814dd4f92a7f65bb57e8",
-                "reference": "8a03c8cf6796b58af745814dd4f92a7f65bb57e8",
+                "url": "https://api.github.com/repos/dreamfactorysoftware/df-core/zipball/1b2d81fb1b38595a2161019ef02fdd6112a5e145",
+                "reference": "1b2d81fb1b38595a2161019ef02fdd6112a5e145",
                 "shasum": ""
             },
             "require": {
@@ -1478,7 +1478,7 @@
                 "paas",
                 "rest"
             ],
-            "time": "2020-03-27T18:46:41+00:00"
+            "time": "2020-03-30T08:47:37+00:00"
         },
         {
             "name": "dreamfactory/df-couchbase",
@@ -8398,16 +8398,16 @@
         },
         {
             "name": "symfony/yaml",
-            "version": "v3.4.38",
+            "version": "v3.4.39",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/yaml.git",
-                "reference": "bc63e15160866e8730a1f738541b194c401f72bf"
+                "reference": "e701b47e11749970f63803879c4febb520f07b6c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/yaml/zipball/bc63e15160866e8730a1f738541b194c401f72bf",
-                "reference": "bc63e15160866e8730a1f738541b194c401f72bf",
+                "url": "https://api.github.com/repos/symfony/yaml/zipball/e701b47e11749970f63803879c4febb520f07b6c",
+                "reference": "e701b47e11749970f63803879c4febb520f07b6c",
                 "shasum": ""
             },
             "require": {
@@ -8453,7 +8453,7 @@
             ],
             "description": "Symfony Yaml Component",
             "homepage": "https://symfony.com",
-            "time": "2020-01-16T19:04:26+00:00"
+            "time": "2020-03-25T12:02:26+00:00"
         },
         {
             "name": "tijsverkoyen/css-to-inline-styles",
@@ -8580,16 +8580,16 @@
         },
         {
             "name": "vlucas/phpdotenv",
-            "version": "v3.6.1",
+            "version": "v3.6.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/vlucas/phpdotenv.git",
-                "reference": "8f7961f7b9deb3b432452c18093cf16f88205902"
+                "reference": "786a947e57086cf236cefdee80784634224b99fa"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/vlucas/phpdotenv/zipball/8f7961f7b9deb3b432452c18093cf16f88205902",
-                "reference": "8f7961f7b9deb3b432452c18093cf16f88205902",
+                "url": "https://api.github.com/repos/vlucas/phpdotenv/zipball/786a947e57086cf236cefdee80784634224b99fa",
+                "reference": "786a947e57086cf236cefdee80784634224b99fa",
                 "shasum": ""
             },
             "require": {
@@ -8599,10 +8599,12 @@
             },
             "require-dev": {
                 "ext-filter": "*",
+                "ext-pcre": "*",
                 "phpunit/phpunit": "^4.8.35 || ^5.0 || ^6.0 || ^7.0"
             },
             "suggest": {
-                "ext-filter": "Required to use the boolean validator."
+                "ext-filter": "Required to use the boolean validator.",
+                "ext-pcre": "Required to use most of the library."
             },
             "type": "library",
             "extra": {
@@ -8637,7 +8639,7 @@
                 "env",
                 "environment"
             ],
-            "time": "2020-03-12T13:44:00+00:00"
+            "time": "2020-03-27T23:36:02+00:00"
         },
         {
             "name": "webonyx/graphql-php",
@@ -9561,16 +9563,16 @@
         },
         {
             "name": "laracasts/generators",
-            "version": "1.1.8",
+            "version": "1.1.9",
             "source": {
                 "type": "git",
                 "url": "https://github.com/laracasts/Laravel-5-Generators-Extended.git",
-                "reference": "6b5ea9024065689ce36f41a45c3ffddcf875f23c"
+                "reference": "6d628e0bbcaf913e10024be43231969e8f039432"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laracasts/Laravel-5-Generators-Extended/zipball/6b5ea9024065689ce36f41a45c3ffddcf875f23c",
-                "reference": "6b5ea9024065689ce36f41a45c3ffddcf875f23c",
+                "url": "https://api.github.com/repos/laracasts/Laravel-5-Generators-Extended/zipball/6d628e0bbcaf913e10024be43231969e8f039432",
+                "reference": "6d628e0bbcaf913e10024be43231969e8f039432",
                 "shasum": ""
             },
             "require": {
@@ -9608,7 +9610,7 @@
                 "generators",
                 "laravel"
             ],
-            "time": "2020-03-10T07:16:20+00:00"
+            "time": "2020-03-29T05:06:14+00:00"
         },
         {
             "name": "laracasts/testdummy",
